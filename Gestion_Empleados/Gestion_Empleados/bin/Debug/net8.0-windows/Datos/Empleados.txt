@@ -1,0 +1,8 @@
+***********
+Nombre: dfgd
+Apellido 1: sdfg
+Apellido 2: 
+Salario: 100
+Cargo: JEFE
+Email: dgsgds
+**********
